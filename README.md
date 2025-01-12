@@ -12,7 +12,7 @@ This project was completed in three steps:
 ### **Step 1: Data Cleaning and Aggregation**
 - Cleaned and standardized the provided datasets to ensure consistency and accuracy.
 - Created a new table, `med_audit`, to track monthly medication movements (`stock_in` and `stock_out`).
-- [View SQL Queries for Step 1](./Step 1 .sql)
+- [View SQL Queries for Step 1](./Step1.sql)
 
 ---
 
