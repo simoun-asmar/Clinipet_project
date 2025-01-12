@@ -21,7 +21,7 @@ This project was completed in three steps:
   - What diseases have the highest costs?
   - What is the average spending on the disease generating the most revenue?
   - Which months saw the highest medication usage?
-- [View SQL Queries for Step 2](./Step%202.sql)
+- [View SQL Queries for Step 2](./Step2.sql)
 
 ---
 
@@ -38,8 +38,8 @@ This project was completed in three steps:
 
 ## **Files in This Repository**
 1. **SQL Queries**:
-   - [Step 1 SQL Queries (Data Cleaning and Aggregation)](./Step%201.sql)
-   - [Step 2 SQL Queries (Research Questions)](./Step%202.sql)
+   - [Step 1 SQL Queries (Data Cleaning and Aggregation)](./Step1.sql)
+   - [Step 2 SQL Queries (Research Questions)](./Step2.sql)
 2. **Datasets**:
    - [HealthTail Registration Cards (Raw)](./healthtail_reg_cards.csv)
    - [Invoices (Raw)](./invoices.csv)
