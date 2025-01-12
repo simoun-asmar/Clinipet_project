@@ -46,8 +46,6 @@ This project was completed in three steps:
    - [Visits (Raw)](./visits.csv)
    - [Registration Cards (Cleaned)](./registration_clean.csv)
    - [Medication Audit Table](./med_audit.csv)
-3. **README.md**:
-   - This document.
 
 ---
 
